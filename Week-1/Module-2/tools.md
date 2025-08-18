@@ -1,4 +1,4 @@
-| **Tool/Website Name**              | **Main/Notes**   | **Category/Description**      |                            |
+| **Tool/Website Name**              | **Main/Notes**   | **Category/Description**                             |   
 |------------------------------------|------------------|------------------------------------------------------|
 | Youtube DataViewer                 | Notes            | Video analysis tools                                 |
 | MW Metadata                        | Notes            | Video analysis tools                                 |
@@ -63,7 +63,7 @@
 | traceroute NG                      | Notes            | Trace Route Information                              |
 | email TarckerPro                   | Notes            | Email Track                                          |
 | Holehe                             | Notes            | Email Track                                          |
-| DNSChecker email header analyzer    | Notes            | Email Track                                          |
+| DNSChecker email header analyzer    | Notes            | Email Track                                         |
 | social catfish                     | Notes            | Email Track                                          |
 | Maltego                            | Main             | Link between people, organizations                   |
 | FOCA                               | Main             | Metadata about documents                             |
