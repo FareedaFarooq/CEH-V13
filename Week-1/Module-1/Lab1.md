@@ -1,5 +1,6 @@
-Install VM ware work station
-Install Kali
-Install Ubuntu
-Install Windows 11
-All OS can ping each other.
+- Install VMware Workstation.
+- Install Kali Linux as a virtual machine.
+- Install Ubuntu as a virtual machine.
+- Install Windows 11 as a virtual machine.
+- Configure the network settings (e.g., set all VMs to the same virtual network such as "Bridged" or "NAT") to ensure all operating systems can ping each other.
+- Test network connectivity by pinging each OS from the others to confirm successful communication.
