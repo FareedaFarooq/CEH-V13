@@ -30,7 +30,7 @@
 - Threat Modeling
 - Incident Management and Response
 - AI and ML in Cyber
-
+- Clustring and Regression
 
 # Security Laws and Standards
 - PCI DSS
