@@ -57,3 +57,7 @@
 - **Traceroute**:
   - *Default*: Uses ICMP (Internet Control Message Protocol) Echo Request to trace network path.
   - *TCP/UDP*: Traceroute can use TCP or UDP packets to bypass ICMP filtering/firewalls or test specific ports.
+ ---
+
+- **Dig Command**:
+  - The dig command (Domain Information Groper) is a network administration command-line tool used for querying Domain Name System (DNS) servers. It helps you look up DNS records for a domain, troubleshoot DNS issues, and obtain information about domains.
