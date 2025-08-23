@@ -15,11 +15,11 @@
 | **DNS Dumpster**                   | Main             | Domain Finder                                        |
 | **pentest-tools.com**              | Notes            | Domain Finder                                        |
 | **sublist3r**                      | Main             | Domain Finder                                        |
-| archive.org                        | Main             | Wayback Machine                                      |
+| **archive.org**                    | Main             | Wayback Machine                                      |
 | **photon.py**                      | Notes            | Reconnaissance                                       |
 | Intelius                           | Notes            | Find details of a person                             |
 | pipl                               | Notes            | Find details of a person                             |
-| spokeo.com                         | Main             | Find details of a person                             |
+| **spokeo.com**                     | Main             | Find details of a person                             |
 | **shodan.io**                      | Notes            | IOT details                                          |
 | **censys.io**                      | Notes            | Used for threat hunting                              |
 | EDGAR Database                     | Notes            | Business Databases                                   |
@@ -57,7 +57,7 @@
 | Bit Buckey                         | Notes            | Public source code repository                        |
 | **DNSRecon**                       | Main             | DNS information                                      |
 | **mxtoolbox**                      | Main             | DNS information                                      |
-| Reverse lookup                     | Main             | DNS information                                      |
+| **Reverse lookup**                 | Main             | DNS information                                      |
 | NetscanToolsPro                    | Notes            | Trace Route Information                              |
 | **Pingplotter**                    | Notes            | Trace Route Information                              |
 | **traceroute NG**                  | Notes            | Trace Route Information                              |
