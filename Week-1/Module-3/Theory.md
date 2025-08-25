@@ -59,9 +59,6 @@ Certainly! Here’s a simple, CEH v13-focused explanation of each concept:
 
 ### 1. **Packet Fragmentation**
 
-**Layman’s Terms:**  
-Imagine you want to send a big box through the mail, but the post office only accepts small boxes. You break your big box into smaller ones, ship them separately, and the recipient puts them back together.
-
 **In Networking:**  
 When sending large data over the internet, it’s broken into small pieces called “packets.” If a network can’t handle big packets, they get chopped into even smaller “fragments” to fit through.
 
@@ -72,9 +69,6 @@ Hackers can use fragmentation to sneak malicious data past security devices, hop
 
 ### 2. **Source Routing**
 
-**Layman’s Terms:**  
-Normally, when you mail a letter, the postal service decides the best route. With “source routing,” you write instructions on your letter, telling the post office exactly which towns it should pass through.
-
 **In Networking:**  
 Source routing lets the sender specify the exact path a data packet should take through the network, instead of letting routers pick the best route.
 
@@ -84,9 +78,6 @@ Attackers might use source routing to bypass security systems, choosing paths th
 ---
 
 ### 3. **Proxy Server**
-
-**Layman’s Terms:**  
-A proxy server is like a middleman or a receptionist. When you want to talk to someone in an office, you go through the receptionist, who then passes your message along. The person you’re contacting only interacts with the receptionist, not you directly.
 
 **In Networking:**  
 A proxy server sits between your computer and the internet. It forwards your requests and responses, hiding your identity or filtering content.
