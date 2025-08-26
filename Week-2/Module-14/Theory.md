@@ -77,7 +77,7 @@ Someone secretly puts a remote control in your toy, and later they can make it d
 Hackers run hidden scripts in your browser, turning your computer into a “zombie” that can be controlled remotely for attacks or mining cryptocurrency.
 
 ---
-# Various Attacks
+# Various Terminologies
 **Shell Injection**  
 Shell Injection lets hackers trick your program into running harmful commands by sneaking them into input.
 Functions like system(), startprocess(), Runtime.exec(), and Process.start() can be dangerous if you use user input without checks.
@@ -87,3 +87,63 @@ Always validate input and use safer alternatives when possible.
 **CRLF injection Attack**  
 
 Imagine you’re writing a letter, and you end each line by pressing “Enter” (that’s a line break). Computers use special characters for this: CR (Carriage Return, \r) and LF (Line Feed, \n). Together, they make a new line: CRLF.
+
+---
+## XML
+XML (eXtensible Markup Language) is a way for computers to store and share data using special tags (like <name>John</name>). It’s designed to be readable by both humans and machines.
+**WSDL, UDDI, and SOAP**  
+**SOAP (Simple Object Access Protocol)**
+A protocol (set of rules) for sending messages between computers over the Internet, using XML.Used for Sending requests and getting responses between web services.
+
+**WSDL (Web Services Description Language)**
+An XML file that describes what a web service can do, how to talk to it, and where it lives.Tells computers how to interact with a web service.
+
+
+**UDDI (Universal Description, Discovery, and Integration)**
+A big, searchable phonebook for web services, describing what they do, where to find them, and how to use them.Finding and registering web services.
+
+---
+## Websockets
+
+a way for your computer (like a web browser) and a server to talk to each other in real time, like a phone call, instead of sending letters back and forth.
+Used for:Live chat apps (like WhatsApp Web)
+Online games
+Real-time dashboards
+
+---
+## CORS (Cross-Origin Resource Sharing)
+
+CORS is the browser’s way of checking if it’s safe to get data from other websites.
+
+---
+## SAML-based SSO
+SAML-based SSO stands for “Security Assertion Markup Language – Single Sign-On.”
+Log in once (at the trusted “security office”)
+Access many websites or apps without logging in again
+The websites trust the “pass” you got from the security office
+
+---
+## LFI (Local File Inclusion) 
+LFI (Local File Inclusion) is a web security vulnerability that allows an attacker to trick a web application into including files on the server. This can lead to the attacker viewing sensitive files, executing code, or even taking full control of the server under some conditions.
+
+---
+## Webhooks 
+Webhooks are automatic messages sent from one app to another when something happens.
+
+---
+## RBAC stands for Role-Based Access Control.
+It’s a way for organizations to control who can do what in a system by assigning “roles” (like Admin, Editor, Viewer) to users.
+Each role has specific permissions.
+
+---
+## No (Attribute-Based Access Control) ABAC Validation
+The system doesn’t check “who, what, when, where, or why” before letting someone do something.
+
+---
+## WebFinger
+WebFinger lets you find public info about someone using an email-like address.
+In CEHV13, you “get” this info by sending a GET request to the right URL and reading the JSON response.
+
+---
+## IDOR Insecure Direct Object Reference.
+IDOR means users can access things just by changing IDs, without checks.
