@@ -22,4 +22,18 @@
 | Hotspot sheild            | Notes | Anonymizers           |
 | Proxifier                 | Notes | Anonymizers           |
 | IPRoyal Residential Proxy | Notes | Anonymizers           |
+| **whonix**                      | Mian  | Anonymizers                        |
+| Psiphon                     | Notes | Anonymizers                        |
+| TunnelBear                  | Notes | Anonymizers                        |
+| Invinsible Internet Project | Notes | Anonymizers                        |
+| Bright Data Proxy API       | Notes | Anonymizers                        |
+| AstrillVPN                  | Notes | VPN                                |
+| Tails                       | Notes | USB based OS                       |
+| Snort                       | Main  | Used for Ping Sweep countermeasure |
+| ExtraHop                    | Notes | Scanning tool for attacks          |
+| **Splunk**                      | Notes | Scanning tool for attacks          |
+| Scanlogd                    | Notes | Scanning tool for attacks          |
+| Vectra Detect               | Notes | Scanning tool for attacks          |
+| **IBM Security Qradar XDR**     | Notes | Scanning tool for attacks          |
+| Cynet 360 AutoXDR           | Notes | Scanning tool for attacks          |
 
